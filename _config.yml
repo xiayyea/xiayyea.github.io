@@ -79,5 +79,5 @@ theme: material-x
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@xiayyea.github.com:xiayyea/xiayyea.github.io.git
+  repo: git@github.com:xiayyea/xiayyea.github.io.git
   branch: master
